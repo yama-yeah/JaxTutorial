@@ -1,0 +1,2 @@
+# JaxTutorial
+NullSafety導入前のDartと同じくらい不安定なので性能落ちるけどTensorFlowでよくね？感ある
